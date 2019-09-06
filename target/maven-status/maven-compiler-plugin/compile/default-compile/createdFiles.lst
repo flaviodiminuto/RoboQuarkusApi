@@ -1,0 +1,6 @@
+com\flavio\sallon\model\RoboConcreteCalculador.class
+com\flavio\sallon\model\operacao\Subtrair.class
+com\flavio\sallon\abstracts\AbstractRobo.class
+com\flavio\sallon\model\operacao\Soma.class
+com\flavio\sallon\abstracts\AbstractOperacao.class
+com\flavio\sallon\Robo.class
